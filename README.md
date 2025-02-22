@@ -1,16 +1,15 @@
-## Hi there 👋
+:
 
-<!--
-**Rayaanxrio/Rayaanxrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+Hi there! I'm a passionate developer who loves building robotic projects and working with microcontrollers like ESP32, ESP8266, and Raspberry Pi. I enjoy tinkering with hardware, writing efficient code, and bringing ideas to life.
 
-Here are some ideas to get you started:
+🔧 What I Do
+Embedded Systems Development
+IoT & Robotics Projects
+Microcontroller Programming
+Hardware-Software Integration
+🚀 Current Project
+I'm currently working on an exciting project for my startup, aiming to innovate and bring something valuable to the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repositories and connect with me!
+
